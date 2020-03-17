@@ -1,0 +1,1 @@
+Configurations "Release" requires "OTA Reset Manager" bootloader to run

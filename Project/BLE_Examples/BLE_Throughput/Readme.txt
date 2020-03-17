@@ -1,0 +1,1 @@
+Configurations "Client_bidirectional", "Client_unidirectional", "Server_bidirectional" and "Server_unidirectional" do not require any bootloader to run

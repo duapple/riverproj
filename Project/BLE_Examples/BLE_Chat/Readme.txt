@@ -1,0 +1,2 @@
+Configurations "Client", "Server", "Server_HigherApp_OTA" and "Server_LowerApp_OTA" require "OTA Reset Manager" bootloader to run
+Configuration "Server_Use_OTA_ServiceManager" requires "OTA Service Manager" bootloader to run

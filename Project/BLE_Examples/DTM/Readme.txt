@@ -1,0 +1,1 @@
+Configuration "UART" does not require any bootloader to run

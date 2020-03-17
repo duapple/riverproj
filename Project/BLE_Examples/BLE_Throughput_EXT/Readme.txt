@@ -1,0 +1,1 @@
+Configurations "Client" and "Server" do not require any bootloader to run
